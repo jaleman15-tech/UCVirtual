@@ -135,13 +135,13 @@ body {
   
 /* Hace que la imagen sea responsiva */
 .responsive-image {
-  width: 85%;          /* La imagen ocupará el 100% del ancho del contenedor */
+  width: 80%;          /* La imagen ocupará el 100% del ancho del contenedor */
   height: auto;         /* La altura se ajustará proporcionalmente */
   max-width: 600px;     /* Limita el tamaño máximo de la imagen */
   border-radius: 8px;   /* (Opcional) Bordes redondeados para mejorar la estética */
 }
 .login-image {
-  width: 100px; /* Ajusta el tamaño que prefieras */
+  width: 200px; /* Ajusta el tamaño que prefieras */
   height: auto; /* Mantiene la proporción de la imagen */
   display: block;
   margin: 0 auto 20px; /* Centra la imagen y añade espacio debajo */
