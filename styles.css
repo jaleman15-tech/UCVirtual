@@ -141,7 +141,7 @@ body {
   border-radius: 8px;   /* (Opcional) Bordes redondeados para mejorar la estética */
 }
 .login-image {
-  width: 150px; /* Ajusta el tamaño que prefieras */
+  width: 30px; /* Ajusta el tamaño que prefieras */
   height: auto; /* Mantiene la proporción de la imagen */
   display: block;
   margin: 0 auto 20px; /* Centra la imagen y añade espacio debajo */
