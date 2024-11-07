@@ -135,9 +135,9 @@ body {
   
 /* Hace que la imagen sea responsiva */
 .responsive-image {
-  width: 100%;          /* La imagen ocupará el 100% del ancho del contenedor */
+  width: 50%;          /* La imagen ocupará el 100% del ancho del contenedor */
   height: auto;         /* La altura se ajustará proporcionalmente */
-  max-width: 100px;     /* Limita el tamaño máximo de la imagen */
+  max-width: 600px;     /* Limita el tamaño máximo de la imagen */
   border-radius: 8px;   /* (Opcional) Bordes redondeados para mejorar la estética */
 }
 
