@@ -132,12 +132,13 @@ body {
     margin-bottom: 10px;
     border-radius: 4px;
   }
-  * Estilos para la imagen de la página de bienvenida */
-.banner-image {
-  width: 100%;
-  max-width: 600px;
-  height: auto;
-  border-radius: 8px;
-  margin-top: 15px;
+  
+/* Hace que la imagen sea responsiva */
+.responsive-image {
+  width: 100%;          /* La imagen ocupará el 100% del ancho del contenedor */
+  height: auto;         /* La altura se ajustará proporcionalmente */
+  max-width: 600px;     /* Limita el tamaño máximo de la imagen */
+  border-radius: 8px;   /* (Opcional) Bordes redondeados para mejorar la estética */
 }
+
   
